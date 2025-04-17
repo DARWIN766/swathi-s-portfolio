@@ -403,7 +403,7 @@
             <div class="social-icons">
                 <a href="https://www.instagram.com/swathi_1139?igsh=MTJhdHl4enZzZmtlbw==" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/swathi-bandaru-4558a7335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="swathibandaru26@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+                <a href="mailto:swathibandaru26@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
                 
             </div>
         </div>
